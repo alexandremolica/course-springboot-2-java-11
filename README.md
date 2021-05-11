@@ -1,8 +1,8 @@
 # course-springboot-2-java-11
 curso realizado na udemy (professor Nelio Alves) 
-para aprender web services com spring boot e jpa - hibernate
+Aprender web services com spring boot e jpa - hibernate
 
-A aplicação de usuario-pedido-produto (back-end)
+Aplicação: usuario-pedido-produto (back-end)
 
 ## Objetivos
 - Criar projeto Spring Boot Java
