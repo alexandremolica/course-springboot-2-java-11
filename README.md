@@ -2,6 +2,8 @@
 curso realizado na udemy (professor Nelio Alves) 
 para aprender web services com spring boot e jpa - hibernate
 
+A aplicação de usuario-pedido-produto (back-end)
+
 ## Objetivos
 - Criar projeto Spring Boot Java
 - Implementar modelo de domínio
@@ -14,8 +16,7 @@ para aprender web services com spring boot e jpa - hibernate
 ## Lingugens
 Java
 
-## Modelo
-### Classes
+## Classes
 - Product
 - Category
 - Orderitem
