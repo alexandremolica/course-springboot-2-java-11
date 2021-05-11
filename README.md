@@ -13,13 +13,5 @@ Aplicação: usuario-pedido-produto (back-end)
 - CRUD - Create, Retrieve, Update, Delete
 - Tratamento de exceções
 
-## Lingugens
+## Linguagem
 Java
-
-## Classes
-- Product
-- Category
-- Orderitem
-- Order
-- Payment
-- User
