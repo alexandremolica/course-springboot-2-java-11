@@ -15,3 +15,6 @@ Aplicação: usuario-pedido-produto (back-end)
 
 ## Linguagem
 Java
+
+## Observações
+Veja diagrama de classe da aplicação no arquivo "modeloClasse-checklistConstrucao.pdf"
